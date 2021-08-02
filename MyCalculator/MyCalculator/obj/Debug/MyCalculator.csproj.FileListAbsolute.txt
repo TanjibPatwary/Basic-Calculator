@@ -1,0 +1,9 @@
+E:\AIUB\7th Sem\C#\MyCode\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+E:\AIUB\7th Sem\C#\MyCode\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+E:\AIUB\7th Sem\C#\MyCode\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+E:\AIUB\7th Sem\C#\MyCode\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+E:\AIUB\7th Sem\C#\MyCode\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Form1.resources
+E:\AIUB\7th Sem\C#\MyCode\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+E:\AIUB\7th Sem\C#\MyCode\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.Cache
+E:\AIUB\7th Sem\C#\MyCode\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+E:\AIUB\7th Sem\C#\MyCode\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
